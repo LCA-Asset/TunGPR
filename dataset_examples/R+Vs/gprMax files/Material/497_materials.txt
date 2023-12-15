@@ -1,0 +1,8 @@
+#material: 1 inf 1 0 pec
+#material: 1 0 1 0 free_space
+#material: 6.91905 0.001 1 0 my_rock
+#material: 14.4124 1e-05 1 0 my_grouting
+#material: 10.9836 0.0001 1 0 my_concrete
+#material: 12.698 5.5e-05 1 0 my_concrete+my_concrete+my_grouting+my_grouting
+#material: 5.9918 5e-05 1 0 free_space+free_space+my_concrete+my_concrete
+#material: 80 5e-04 1 0 my_water

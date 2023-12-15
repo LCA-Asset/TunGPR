@@ -1,1 +1,3 @@
-Some examples from the TunGPR synthetic dataset are presented here to explain the dataset architecture.
+The examples of tunnel linings featuring roughness and water-filled voids from the TunGPR synthetic dataset are presented here to explain the dataset architecture. The dataset encompasses the original files that can be used to reproduce the simulations in gprMax. Output B-scans as well as bounding box annotations are also provided for deep learning applications such as object detection CNN. 
+## To reproduce or adapt the simulations
+ To do so, please save the command files `.in`, the geometry files `.h5`, and the material files `.txt` into the same folder. Alternatively, you can indicate the paths of the geometry and material files in the `.in` files. Then, running the `.in` files with gprMax will produce the B-scans.

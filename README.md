@@ -1,4 +1,4 @@
-# TunGPR: Enhancing Data-Driven Maintenance for Tunnel Linings through Synthetic Datasets, Deep Learning and BIM
+# TunGPR
 A framework is proposed, namely TunGPR, for Ground Penetrating Radar (GPR)-based tunnel lining assessment by incorporating Building Information Modelling (BIM), synthetic database and deep learning-enabled interpretation. In this repository, the TunGPR synthetic dataset of tunnel lining and hyperbolic features are shared, as well as the Dual Rotational CNN, trained to detect the hyperbolas in GPR images with two rotational bounding boxes. <be>`This repository is to be updated with more details. Datasets, codes, and instructions will be uploaded shortly. Please stay tuned.` 
 ## Contents
 * Overview

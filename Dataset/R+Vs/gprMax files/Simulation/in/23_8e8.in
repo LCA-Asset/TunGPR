@@ -1,0 +1,10 @@
+#title: 23
+#domain: 1.6 1.08 0.004
+#dx_dy_dz: 0.004 0.004 0.004
+#time_window: 3e-8
+#waveform: ricker 1 8e8 my_ricker
+#hertzian_dipole: z 0.040 1 0 my_ricker
+#rx: 0.14 1 0
+#src_steps: 0.012 0 0
+#rx_steps: 0.012 0 0
+#geometry_objects_read: 0 0 0 23.h5 23_materials.txt
